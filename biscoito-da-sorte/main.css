@@ -23,6 +23,10 @@ body {
     font-family: "DM Sans", sans-serif;
 }
 
+.hide {
+    display: none;
+}
+
 main {
     background-color: #fff;
     max-width: 42.8rem;
